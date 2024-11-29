@@ -1,2 +1,2 @@
-# DIQ---ProjectLeiMantegazza-24-25-
+# DIQ---ProjectLeiMantegazza-24-25
 Progetto di Data And Information Quality
