@@ -230,6 +230,8 @@ def compute(df, k):
 
     data2D = df
 
+    print(df.shape)
+
     totaltuples = len(data2D.index)
     listofcolumns = list(data2D.columns.values) # returns ['A', 'B', 'C', 'D', .....]
     tableT = ['NULL']*totaltuples # this is for the table T used in the function partition_product
