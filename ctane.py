@@ -229,7 +229,7 @@ def compute(df, k):
         #k=int(sys.argv[2])
 
     #data2D = df
-    data2D = read_csv(infile)
+    data2D = read_csv(df)
 
     print(data2D.shape)
 
