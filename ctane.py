@@ -228,7 +228,8 @@ def compute(df, k):
     #if len(sys.argv) > 2:
         #k=int(sys.argv[2])
 
-    data2D = df
+    #data2D = df
+    data2D = read_csv(infile)
 
     print(data2D.shape)
 
