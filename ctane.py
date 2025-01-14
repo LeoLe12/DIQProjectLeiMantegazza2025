@@ -222,14 +222,14 @@ def sortspbasedonx(x,sp):
     return (''.join(new_x), tuple(new_sp))
 
 #------------------------------------------------------- START ---------------------------------------------------
-def compute(df, k):
+def compute(infile, k):
     #if len(sys.argv) > 1:
         #infile=str(sys.argv[1])
     #if len(sys.argv) > 2:
         #k=int(sys.argv[2])
 
     #data2D = df
-    data2D = read_csv(df)
+    data2D = read_csv(infile, encoding="unicode_escape", sep=";")
 
     print(data2D.shape)
 
