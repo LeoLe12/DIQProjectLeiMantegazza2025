@@ -1,0 +1,774 @@
+Settore merceologico,Insegna,Tipo Via,Denominazione,Civico,Codice Via,Zona,Superficie vendita[m²],Superficie altri usi[m²],Superficie totale[m²]
+non alimentare,Mancante,PZA,CORDUSIO,2,626,1,292.0,0.0,292.0
+non alimentare,Mancante,VIA,ALBERICO DA ROSCIATE,5,6589,7,726.0,0.0,726.0
+non alimentare,Mancante,VIA,ASTESANI ALESSANDRO,17,1558,9,370.0,0.0,370.0
+alimentare/non alimentare,esselunga,VIA,DOMENICHINO,2,6383,7,795.0,622.0,1417.0
+alimentare/non alimentare,esselunga,VLE,VIGLIANI PAOLO ONORATO,59,6422,8,1225.0,0.0,1225.0
+non alimentare,in s mercato,VIA,DELLE BETULLE,12,6828,7,620.0,766.0,1386.0
+non alimentare,la rinascente s.p.a.,VIA,SANTA RADEGONDA,3,208,1,20340.0,0.0,20340.0
+alimentare/non alimentare,pam,VIA,PADOVA,111,2275,2,400.0,729.0,1129.0
+alimentare/non alimentare,supermarket,VIA,ROSSI PELLEGRINO,33,1510,9,1197.0,0.0,1197.0
+alimentare,Mancante,VIA,DEI PIATTI,3,532,1,490.0,18.0,508.0
+alimentare,in s mercato,VIA,ROMBON,34,2659,3,550.0,215.0,765.0
+alimentare/non alimentare,Mancante,PLE,FERRARA,2,4158,4,536.0,0.0,536.0
+alimentare/non alimentare,Mancante,PLE,SELINUNTE,2,6566,7,329.0,323.0,652.0
+alimentare/non alimentare,Mancante,PZA,DEL DUOMO,31,1,1,757.0,35.0,792.0
+alimentare/non alimentare,Mancante,PZA,SIGMUND FREUD,1,1705,9,800.0,100.0,900.0
+alimentare/non alimentare,Mancante,VIA,ANTONINI GIACOMO,32,4250,5,1499.0,774.0,2273.0
+alimentare/non alimentare,Mancante,VIA,ARCO,2,714,1,364.0,627.0,991.0
+alimentare/non alimentare,Mancante,VIA,BIANCHI MOSE',94,6385,7,271.0,0.0,271.0
+alimentare/non alimentare,Mancante,VIA,CHIOSTERGI GIUSEPPE,13,6850,7,536.0,100.0,636.0
+alimentare/non alimentare,Mancante,VIA,DON RODRIGO,7,5416,5,751.0,349.0,1100.0
+alimentare/non alimentare,Mancante,VIA,LOMBROSO CESARE,54,3334,4,800.0,100.0,900.0
+alimentare/non alimentare,Mancante,VIA,LUDOVICO DI BREME,25,7396,8,1035.0,410.0,1445.0
+alimentare/non alimentare,Mancante,VIA,MAGREGLIO,10,7486,8,535.0,285.0,820.0
+alimentare/non alimentare,Mancante,VIA,MARGHERA,36,6280,7,314.0,0.0,314.0
+alimentare/non alimentare,Mancante,VIA,MAURI ANGELO,5,6296,7,1050.0,850.0,1900.0
+alimentare/non alimentare,Mancante,VIA,MEDEGHINO,11,5335,5,939.0,698.0,1637.0
+alimentare/non alimentare,Mancante,VIA,PIRELLI GIOVANNI BATTISTA,30,1195,9,381.0,0.0,381.0
+alimentare/non alimentare,Mancante,VIA,PONTE VETERO,14,718,1,300.0,0.0,300.0
+alimentare/non alimentare,Mancante,VIA,RIPAMONTI GIUSEPPE,37,4066,5,673.0,436.0,1109.0
+alimentare/non alimentare,Mancante,VIA,SAPRI,83,7441,8,360.0,0.0,360.0
+alimentare/non alimentare,Mancante,VIA,SARPI FRA' PAOLO,44,7210,8,252.0,0.0,252.0
+alimentare/non alimentare,Mancante,VIA,VISCONTI ALEX,24,7529,8,653.0,88.0,741.0
+alimentare/non alimentare,Mancante,VLE,CASSALA,15,5275,6,385.0,0.0,385.0
+alimentare/non alimentare,Mancante,VLE,GIOVANNI DA CERMENATE,62,5261,5,1130.0,822.0,1952.0
+alimentare/non alimentare,Mancante,VLE,MOLISE,56,3178,4,1000.0,0.0,1000.0
+alimentare/non alimentare,Mancante,VLE,SUZZANI GIOVANNI,221,1446,9,2500.0,2734.0,5234.0
+alimentare/non alimentare,benetton,CSO,BUENOS AIRES,19,2129,3,2351.0,349.0,2700.0
+alimentare/non alimentare,blockbuster,VIA,BOSCOVICH RUGGERO,49,2131,3,293.0,83.0,376.0
+alimentare/non alimentare,blockbuster,VIA,CARONCINI ALBERTO,6,4093,4,400.0,127.0,527.0
+alimentare/non alimentare,blockbuster,VIA,SAN SIRO,3,6282,7,300.0,22.0,322.0
+alimentare/non alimentare,blockbuster,VLE,MARCHE,63,1360,9,350.0,30.0,380.0
+alimentare/non alimentare,blockbuster,VLE,MISURATA,18,6123,6,300.0,98.0,398.0
+alimentare/non alimentare,blockbuster,VLE,PAPINIANO,16,5097,1,450.0,85.0,535.0
+alimentare/non alimentare,blockbuster,VLE,PICENO,19,3114,4,400.0,15.0,415.0
+alimentare/non alimentare,blockbuster,VLE,SABOTINO,15,4046,5,400.0,80.0,480.0
+alimentare/non alimentare,botanic,VIA,GROSOTTO,9,7328,8,1400.0,236.0,1636.0
+alimentare/non alimentare,carrefour,CSO,DI PORTA VIGENTINA,36,4026,1,300.0,89.0,389.0
+alimentare/non alimentare,carrefour,CSO,VERCELLI,20,6193,7,300.0,88.0,388.0
+alimentare/non alimentare,carrefour,PLE,SIENA,18,6616,7,1040.0,1005.0,2045.0
+alimentare/non alimentare,carrefour,PZA,ANGILBERTO II,9,4278,5,950.0,645.0,1595.0
+alimentare/non alimentare,carrefour,VIA,AMPERE ANDREA MARIA,103,2428,3,360.0,63.0,423.0
+alimentare/non alimentare,carrefour,VIA,DELLA MOSCOVA,30,1016,1,454.0,158.0,612.0
+alimentare/non alimentare,carrefour,VIA,DOLCI CARLO,8,6555,7,308.0,136.0,444.0
+alimentare/non alimentare,carrefour,VIA,EDOLO,26,1217,2,380.0,79.0,459.0
+alimentare/non alimentare,carrefour,VIA,FALCK ENRICO,33,7438,8,380.0,20.0,400.0
+alimentare/non alimentare,carrefour,VIA,FARINI CARLO,77,1114,9,1580.0,1260.0,2840.0
+alimentare/non alimentare,carrefour,VIA,GIANELLA GIUSEPPE,21,6775,7,395.0,16.0,411.0
+alimentare/non alimentare,carrefour,VIA,GROSSICH ANTONIO,3,2576,3,398.0,272.0,670.0
+alimentare/non alimentare,carrefour,VIA,INAMA VIRGILIO,4,3169,3,398.0,363.0,761.0
+alimentare/non alimentare,carrefour,VIA,LOMAZZO PAOLO,41,7079,8,395.0,72.0,467.0
+alimentare/non alimentare,carrefour,VIA,MAGISTRETTI PIETRO,7,2466,2,380.0,96.0,476.0
+alimentare/non alimentare,carrefour,VIA,PORPORA NICOLA ANTONIO,125,2229,3,390.0,117.0,507.0
+alimentare/non alimentare,carrefour,VIA,PORRO LAMBERTENGHI LUIGI,16,1142,9,300.0,86.0,386.0
+alimentare/non alimentare,carrefour,VIA,SAN SENATORE,16,404,1,368.0,56.0,424.0
+alimentare/non alimentare,carrefour,VIA,SARPI FRA' PAOLO,33,7210,8,2442.0,2456.0,4898.0
+alimentare/non alimentare,carrefour,VIA,SISMONDI GIANCARLO,35,3256,4,398.0,402.0,800.0
+alimentare/non alimentare,carrefour,VIA,SODERINI LUIGI,48,6675,6,1308.0,802.0,2110.0
+alimentare/non alimentare,carrefour,VIA,SPINOZA BENEDETTO,4,2205,3,957.0,998.0,1955.0
+alimentare/non alimentare,carrefour,VIA,VOLTRI,8,5354,6,292.0,130.0,422.0
+alimentare/non alimentare,carrefour,VLE,ABRUZZI,54,2177,3,370.0,43.0,413.0
+alimentare/non alimentare,carrefour,VLE,FAMAGOSTA,16,5353,6,980.0,805.0,1785.0
+alimentare/non alimentare,centro botanico,VIA,CORRENTI CESARE,10,555,1,489.0,157.0,646.0
+alimentare/non alimentare,centro sposi paradiso,VIA,COSTA ANDREA,1,2276,2,305.0,0.0,305.0
+alimentare/non alimentare,coin,CSO,VERCELLI,30,6193,7,3500.0,2380.0,5880.0
+alimentare/non alimentare,coin,PLE,CANTORE ANTONIO,12,5103,6,3470.0,1285.0,4755.0
+alimentare/non alimentare,coin,PLE,LORETO,16,2264,2,1910.0,1774.0,3684.0
+alimentare/non alimentare,conad,PLE,BOLOGNA,7,4172,4,670.0,645.0,1315.0
+alimentare/non alimentare,conad,VIA,GONIN FRANCESCO,71,5376,6,800.0,492.0,1292.0
+alimentare/non alimentare,coop,VIA,FREIKOFEL,2,4367,4,654.0,0.0,654.0
+alimentare/non alimentare,coop,VIA,ORNATO LUIGI,28,1591,9,1200.0,0.0,1200.0
+alimentare/non alimentare,crai,VLE,BLIGNY,54,4045,5,280.0,0.0,280.0
+alimentare/non alimentare,decathlon,FOR,BUONAPARTE,74,711,1,2850.0,1350.0,4200.0
+alimentare/non alimentare,dico,VIA,BASSI UGO,1,1143,9,600.0,0.0,600.0
+alimentare/non alimentare,di perdi,VIA,DARWIN CARLO ROBERTO,2,5238,6,390.0,128.0,518.0
+alimentare/non alimentare,di  per di,LGO,SCALABRINI GIOVANNI BATTISTA,1,5392,6,320.0,360.0,680.0
+alimentare/non alimentare,di  per di,VIA,OLGETTINA,60,2530,3,317.0,178.0,495.0
+alimentare/non alimentare,di per di,VIA,CASATI FELICE,32,2122,2,310.0,69.0,379.0
+alimentare/non alimentare,di per di,VIA,CONCA DEL NAVIGLIO,37,5180,1,440.0,73.0,513.0
+alimentare/non alimentare,di per di,VIA,DELLE ORCHIDEE,4,6717,6,280.0,240.0,520.0
+alimentare/non alimentare,di per di,VIA,PARAVIA PIER ALESSANDRO,77,6571,7,382.0,174.0,556.0
+alimentare/non alimentare,di per di,VLE,GIOVANNI DA CERMENATE,27,5261,5,278.0,88.0,366.0
+alimentare/non alimentare,discount,VIA,ZOCCHI CESARE,1,1301,9,300.0,150.0,450.0
+alimentare/non alimentare,di  x di,VIA,BERTANI AGOSTINO,2,7112,1,260.0,105.0,365.0
+alimentare/non alimentare,di x di il supermercato,VIA,VILLAPIZZONE,18,7272,8,470.0,195.0,665.0
+alimentare/non alimentare,ecom,CSO,LODI,65,4068,4,600.0,300.0,900.0
+alimentare/non alimentare,esselunga,VIA,BERGAMO,10,3189,4,1200.0,112.0,1312.0
+alimentare/non alimentare,esselunga,VIA,CAGLIERO GIOVANNI,14,1407,2,1018.0,266.0,1284.0
+alimentare/non alimentare,esselunga,VIA,DELLE FORZE ARMATE,199,6643,7,1400.0,508.0,1908.0
+alimentare/non alimentare,esselunga,VIA,HAYEZ FRANCESCO,14,2172,3,1700.0,0.0,1700.0
+alimentare/non alimentare,esselunga,VIA,ISOTTA CESARE,7,4354,5,2900.0,0.0,2900.0
+alimentare/non alimentare,esselunga,VIA,MAC MAHON,128,7221,8,1200.0,676.0,1876.0
+alimentare/non alimentare,esselunga,VIA,MORGANTINI MARIO,15,6568,7,1060.0,594.0,1654.0
+alimentare/non alimentare,esselunga,VIA,NOVARA,86,6624,7,2490.0,1486.0,3976.0
+alimentare/non alimentare,esselunga,VLE,CASSALA,22,5275,6,1191.0,0.0,1191.0
+alimentare/non alimentare,esselunga,VLE,PAPINIANO,27,5097,1,1400.0,996.0,2396.0
+alimentare/non alimentare,esselunga,VLE,PIAVE,38,2179,1,1400.0,422.0,1822.0
+alimentare/non alimentare,esselunga centro commerci,VIA,LORENTEGGIO,219,5132,6,4670.0,3327.0,7997.0
+alimentare/non alimentare,esselunga spa.,VLE,UMBRIA,28,3145,4,2500.0,1807.0,4307.0
+alimentare/non alimentare,esselunga vle certosa,VLE,CERTOSA,59,7174,8,1144.0,386.0,1530.0
+alimentare/non alimentare,esselunga vle jenner,VIA,LEGNONE,3,1298,9,1920.0,0.0,1920.0
+alimentare/non alimentare,euro discount,VIA,CASATI FELICE,8,2122,2,390.0,110.0,500.0
+alimentare/non alimentare,fnac e standa superfresco,VIA,DELLA PALLA,2,586,1,4720.0,0.0,4720.0
+alimentare/non alimentare,free shop,VIA,DEI TRANSITI,20,2284,2,577.0,0.0,577.0
+alimentare/non alimentare,gs,VIA,MODENA GUSTAVO,8,3122,3,1050.0,1162.0,2212.0
+alimentare/non alimentare,gs,VLE,ABRUZZI,10,2177,3,800.0,600.0,1400.0
+alimentare/non alimentare,gs,VLE,MONZA,134,2274,2,1300.0,940.0,2240.0
+alimentare/non alimentare,gs supermercato,VIA,MAESTRI CAMPIONESI,7,3197,4,1416.0,1436.0,2852.0
+alimentare/non alimentare,il gigante,VIA,LORENTEGGIO,3,5132,6,1320.0,0.0,1320.0
+alimentare/non alimentare,il mercatino di via arbe,VIA,ARBE,47,1352,2,256.0,80.0,336.0
+alimentare/non alimentare,in s mercato,VIA,APELLE,36,2454,2,583.0,0.0,583.0
+alimentare/non alimentare,in s mercato,VIA,BASSO LELIO,8,5453,5,750.0,0.0,750.0
+alimentare/non alimentare,in s mercato,VIA,CLITUMNO,20,2367,2,600.0,0.0,600.0
+alimentare/non alimentare,in s mercato,VIA,LUDOVICO DI BREME,48,7396,8,600.0,0.0,600.0
+alimentare/non alimentare,in s mercato,VIA,VARESINA,25,7290,8,399.0,0.0,399.0
+alimentare/non alimentare,in s mercato,VLE,MARCHE,97,1360,9,600.0,0.0,600.0
+alimentare/non alimentare,io brico,VIA,ORSINI VINCENZO GIORDANO,2,6648,7,1691.0,159.0,1850.0
+alimentare/non alimentare,ipercoop,VIA,GOZZOLI BENOZZO,130,6789,7,5660.0,2340.0,8000.0
+alimentare/non alimentare,iper portello,VIA,PALAZZOLO DON LUIGI,20,7522,8,5403.0,1097.0,6500.0
+alimentare/non alimentare,iperstanda,VIA,TRIVULZIO ANTONIO TOLOMEO,12,6277,7,3200.0,2370.0,5570.0
+alimentare/non alimentare,italbar,VIA,TRIVULZIO ANTONIO TOLOMEO,15,6277,7,257.0,0.0,257.0
+alimentare/non alimentare,kathay china food store,VIA,ROSMINI ANTONIO,11,7132,1,259.0,0.0,259.0
+alimentare/non alimentare,la coloniale,CSO,GENOVA,19,5164,1,350.0,0.0,350.0
+alimentare/non alimentare,la rinascente s.p.a.,VLE,CERTOSA,29,7174,8,6350.0,3670.0,10020.0
+alimentare/non alimentare,ld discount,VIA,SAN RAFAEL DELLE ANDE,6,1457,2,490.0,0.0,490.0
+alimentare/non alimentare,ld market,VIA,RUBENS PIETRO,8,6597,7,498.0,334.0,832.0
+alimentare/non alimentare,licenza madre ce de angel,VIA,DE ANGELI CARLO,1,4326,5,4900.0,4085.0,8985.0
+alimentare/non alimentare,lidl,LGO,BALESTRA ANTONIO,3,5464,6,896.0,875.0,1771.0
+alimentare/non alimentare,lidl,VIA,CEFALU',2,7370,8,884.0,255.0,1139.0
+alimentare/non alimentare,lidl,VIA,DELLA CHIESA ROSSA,43,5321,5,1270.0,711.0,1981.0
+alimentare/non alimentare,lidl,VIA,GRASSI GIOVANNI BATTISTA,15,7465,8,900.0,0.0,900.0
+alimentare/non alimentare,lidl,VIA,LORENTEGGIO,240,5132,6,1112.0,265.0,1377.0
+alimentare/non alimentare,lidl,VIA,PESTALOZZI GIOVANNI ENRICO,21,5294,6,856.0,0.0,856.0
+alimentare/non alimentare,lidl,VIA,SACCARDO PIETRO ANDREA,22,2665,3,750.0,0.0,750.0
+alimentare/non alimentare,lidl,VLE,ORTLES,7,4133,5,892.0,0.0,892.0
+alimentare/non alimentare,lidl,VLE,TIBALDI,40,5234,5,674.0,183.0,857.0
+alimentare/non alimentare,lidl supermarket,VIA,VALASSINA,12,1314,9,1300.0,268.0,1568.0
+alimentare/non alimentare,longoni sport punto giall,VIA,CEFALONIA,10,7439,8,2400.0,0.0,2400.0
+alimentare/non alimentare,messaggerie musicali,GLL,DEL CORSO,2,305,1,2440.0,1010.0,3450.0
+alimentare/non alimentare,mondadori mulitcenter,VIA,MARGHERA,28,6280,7,1810.0,90.0,1900.0
+alimentare/non alimentare,naturasi,VIA,MILLELIRE DOMENICO,14,6620,7,500.0,275.0,775.0
+alimentare/non alimentare,natura si,VIA,FARA GUSTAVO,35,1183,9,270.0,0.0,270.0
+alimentare/non alimentare,oviesse,CSO,BUENOS AIRES,35,2129,3,3100.0,703.0,3803.0
+alimentare/non alimentare,oviesse,VIA,OLTROCCHI BALDASSARE,11,3217,4,1209.0,314.0,1523.0
+alimentare/non alimentare,oviesse,VIA,RIPAMONTI GIUSEPPE,175,4066,5,1490.0,842.0,2332.0
+alimentare/non alimentare,oviesse,VIA,RISMONDO FRANCESCO,8,6756,7,1800.0,440.0,2240.0
+alimentare/non alimentare,pam,VIA,BAZZINI ANTONIO,33,2427,3,920.0,1107.0,2027.0
+alimentare/non alimentare,pam,VIA,DELLE FORZE ARMATE,44,6643,7,1010.0,846.0,1856.0
+alimentare/non alimentare,pam,VIA,FOPPA VINCENZO,33,6109,6,960.0,1235.0,2195.0
+alimentare/non alimentare,pam,VIA,OLONA,1,5090,1,960.0,860.0,1820.0
+alimentare/non alimentare,pam,VIA,PICCINNI NICOLA,2,2236,3,800.0,1240.0,2040.0
+alimentare/non alimentare,pam,VIA,STRIGELLI GAETANO,8,3214,4,1100.0,874.0,1974.0
+alimentare/non alimentare,pam,VIA,TOLSTOI LEONE,61,5133,6,850.0,947.0,1797.0
+alimentare/non alimentare,pam,VLE,SABOTINO,6,4046,5,900.0,922.0,1822.0
+alimentare/non alimentare,pam,VLE,TIBALDI,35,5234,5,800.0,891.0,1691.0
+alimentare/non alimentare,pd discount,VLE,DORIA ANDREA,17,2230,3,340.0,103.0,443.0
+alimentare/non alimentare,peck,VIA,SPADARI,7,518,1,1160.0,0.0,1160.0
+alimentare/non alimentare,penny market,VIA,MASSARA DE CAPITANI,15,1261,9,680.0,82.0,762.0
+alimentare/non alimentare,penny market,VIA,MONCUCCO,36,5320,6,540.0,210.0,750.0
+alimentare/non alimentare,penny market,VIA,PADOVA,166,2275,2,893.0,268.0,1161.0
+alimentare/non alimentare,penny market,VIA,ROSSI PELLEGRINO,46,1510,9,600.0,335.0,935.0
+alimentare/non alimentare,penny market,VIA,STAMIRA D'ANCONA,28,2337,2,510.0,262.0,772.0
+alimentare/non alimentare,penny market,VLE,ESPINASSE CARLO,137,7390,8,662.0,217.0,879.0
+alimentare/non alimentare,playlife,PZA,SANTA FRANCESCA ROMANA,3,2183,3,395.0,105.0,500.0
+alimentare/non alimentare,punto market,VIA,PONTI ETTORE,45,5297,6,470.0,299.0,769.0
+alimentare/non alimentare,punto sma,PLE,BAIAMONTI ANTONIO,4,7235,9,355.0,211.0,566.0
+alimentare/non alimentare,punto sma,PZA,BRUZZANO,5,1655,9,380.0,820.0,1200.0
+alimentare/non alimentare,punto sma,PZA,NAPOLI,11,5131,6,399.0,0.0,399.0
+alimentare/non alimentare,punto sma,VIA,BUONARROTI MICHELANGELO,11,6253,7,400.0,630.0,1030.0
+alimentare/non alimentare,punto sma,VIA,NOE ENRICO,43,2211,3,390.0,0.0,390.0
+alimentare/non alimentare,punto sma,VIA,PIERO DELLA FRANCESCA,57,7188,8,380.0,30.0,410.0
+alimentare/non alimentare,punto sma,VLE,ZARA,123,1170,9,505.0,395.0,900.0
+alimentare/non alimentare,punto sma,VIA,VAL DI BONDO,15,1648,9,295.0,101.0,396.0
+alimentare/non alimentare,punto sma,VIA,VENINI GIULIO E CORRADO,37,2258,2,320.0,401.0,721.0
+alimentare/non alimentare,punto sma,VLE,PISA,10,6615,7,270.0,421.0,691.0
+alimentare/non alimentare,quel che c e,VIA,OROBIA,11,4137,5,290.0,0.0,290.0
+alimentare/non alimentare,salvini,VIA,SOLARI ANDREA,6,5111,6,360.0,0.0,360.0
+alimentare/non alimentare,si coop,VIA,FIUGGI,33,1328,9,860.0,757.0,1617.0
+alimentare/non alimentare,sma,VIA,DELLA FERRERA,18,5451,6,1010.0,1098.0,2108.0
+alimentare/non alimentare,sma,VIA,F.LLI ANTONA TRAVERSI,18,7354,8,2272.0,1016.0,3288.0
+alimentare/non alimentare,sma,VIA,NOVARA,15,6624,7,4009.0,2033.0,6042.0
+alimentare/non alimentare,sma centro freschezza,VIA,MANCINI LODOVICO,4,3082,4,630.0,1125.0,1755.0
+alimentare/non alimentare,sma/simply,VIA,DELFICO MELCHIORRE,52,7250,8,1810.0,1190.0,3000.0
+alimentare/non alimentare,sma supermercati,VIA,PADOVA,224,2275,2,1120.0,1028.0,2148.0
+alimentare/non alimentare,sma supermercati,VLE,TIBALDI,7,5234,5,990.0,630.0,1620.0
+alimentare/non alimentare,sma supermercati alimenta,CSO,LODI,130,4068,4,862.0,616.0,1478.0
+alimentare/non alimentare,sma supermercati alimenta,PZA,FRATTINI PIETRO,4,5389,6,3010.0,1124.0,4134.0
+alimentare/non alimentare,sma supermercati alimenta,VIA,AMMIANO MARCELLINO,14,4101,4,600.0,720.0,1320.0
+alimentare/non alimentare,sma supermercati alimenta,VIA,ASTESANI ALESSANDRO,46,1558,9,705.0,980.0,1685.0
+alimentare/non alimentare,sma supermercati alimenta,VIA,LOMELLINA,1,3280,4,840.0,610.0,1450.0
+alimentare/non alimentare,sma supermercati alimenta,VIA,MICHELINO DA BESOZZO,14,7263,8,695.0,1008.0,1703.0
+alimentare/non alimentare,sma supermercati alimenta,VIA,VENINI GIULIO E CORRADO,50,2258,2,930.0,719.0,1649.0
+alimentare/non alimentare,special market dugan,VIA,PIER LOMBARDO,2,4073,4,600.0,279.0,879.0
+alimentare/non alimentare,standa,VLE,UNGHERIA,12,3357,4,890.0,537.0,1427.0
+alimentare/non alimentare,standa superfresco,PZA,DIOCLEZIANO,4,7220,8,915.0,0.0,915.0
+alimentare/non alimentare,standa superfresco,VIA,CICOGNARA LEOPOLDO,2,3106,3,2469.0,1898.0,4367.0
+alimentare/non alimentare,standa superfresco,VIA,DEI MISSAGLIA,22,5340,5,3213.0,2214.0,5427.0
+alimentare/non alimentare,standa superfresco,VIA,DELLE FORZE ARMATE,312,6643,7,1250.0,1625.0,2875.0
+alimentare/non alimentare,standa superfresco,VIA,URUGUAY,6,7495,8,880.0,770.0,1650.0
+alimentare/non alimentare,standa superfresco,VLE,ESPINASSE CARLO,19,7390,8,800.0,1453.0,2253.0
+alimentare/non alimentare,supermercati di x di,VIA,SARPI FRA' PAOLO,41,7210,8,390.0,240.0,630.0
+alimentare/non alimentare,supermercato,VIA,CANONICA LUIGI,54,7121,1,397.0,0.0,397.0
+alimentare/non alimentare,team point,VLE,RICHARD GIULIO,5,5374,6,265.0,0.0,265.0
+alimentare/non alimentare,toys center,VIA,MACCHI MAURO,29,2133,2,813.0,227.0,1040.0
+alimentare/non alimentare,toys center,VIA,CARNEVALI ANTONIO,116,1268,9,1499.0,1608.0,3107.0
+alimentare/non alimentare,toys center,VIA,PITAGORA,4,2405,2,614.0,0.0,614.0
+alimentare/non alimentare,unes,VIA,DE MARCHI EMILIO,10,1418,2,814.0,536.0,1350.0
+alimentare/non alimentare,unes,VIA,DURAZZO,5,2658,3,932.0,1078.0,2010.0
+alimentare/non alimentare,unes,VIA,SPALLANZANI LAZZARO,10,2153,3,865.0,711.0,1576.0
+alimentare/non alimentare,unes,VIA,TRILUSSA,26,7367,8,814.0,1818.0,2632.0
+alimentare/non alimentare,unes,VIA,VALLAZZE,87,2250,3,790.0,0.0,790.0
+alimentare/non alimentare,unes,VIA,VARESINA,92,7290,8,300.0,260.0,560.0
+alimentare/non alimentare,unes,VLE,BELISARIO,3,6360,8,650.0,1120.0,1770.0
+alimentare/non alimentare,unes supermercati,VIA,MINERBI ARRIGO,1,5441,5,420.0,420.0,840.0
+alimentare/non alimentare,unes supermercati,VIA,VAL DI SOLE,12,4295,5,310.0,310.0,620.0
+alimentare/non alimentare,unes  u! come tu mi vuoi,VIA,VALLAZZE,104,2250,3,398.0,20.0,418.0
+alimentare/non alimentare,upim,CSO,BUENOS AIRES,21,2129,3,3030.0,1577.0,4607.0
+alimentare/non alimentare,upim,PLE,LORETO,5,2264,2,2416.0,1181.0,3597.0
+alimentare/non alimentare,upim,PZA,FRATTINI PIETRO,8,5389,6,1060.0,650.0,1710.0
+alimentare/non alimentare,upim,VIA,CUNEO,2,6281,7,2585.0,2323.0,4908.0
+alimentare/non alimentare,upim,VIA,FARINI CARLO,79,1114,9,3643.0,1642.0,5285.0
+alimentare/non alimentare,upim,VIA,MANCINI LODOVICO,2,3082,4,1854.0,981.0,2835.0
+alimentare/non alimentare,upim,VIA,POLESINE,39,4159,4,2637.0,1140.0,3777.0
+alimentare/non alimentare,upim,VIA,SPADARI,2,518,1,1652.0,1040.0,2692.0
+alimentare/non alimentare,upim sma,CSO,SAN GOTTARDO,29,5203,5,3470.0,393.0,3863.0
+alimentare/non alimentare,upim sma,VIA,MASOLINO DA PANICALE,7,7264,8,1819.0,785.0,2604.0
+non alimentare,Mancante,BST,DI PORTA VOLTA,7,1066,1,380.0,215.0,595.0
+non alimentare,Mancante,CSO,BUENOS AIRES,18,2129,3,300.0,0.0,300.0
+non alimentare,Mancante,CSO,BUENOS AIRES,39,2129,3,425.0,65.0,490.0
+non alimentare,Mancante,CSO,BUENOS AIRES,63,2129,3,812.0,261.0,1073.0
+non alimentare,Mancante,CSO,DI PORTA TICINESE,12,541,1,926.0,264.0,1190.0
+non alimentare,Mancante,CSO,EUROPA,22,300,1,1496.0,764.0,2260.0
+non alimentare,Mancante,CSO,GARIBALDI GIUSEPPE,127,1010,1,273.0,0.0,273.0
+non alimentare,Mancante,VIA,MAGGI CARLO MARIA,10,7115,1,725.0,130.0,855.0
+non alimentare,Mancante,CSO,INDIPENDENZA,1,3118,3,450.0,1550.0,2000.0
+non alimentare,Mancante,CSO,INDIPENDENZA,24,3118,3,850.0,630.0,1480.0
+non alimentare,Mancante,CSO,ITALIA,40,526,1,292.0,100.0,392.0
+non alimentare,Mancante,CSO,LODI,60,4068,4,255.0,0.0,255.0
+non alimentare,Mancante,CSO,LODI,9,4068,4,340.0,0.0,340.0
+non alimentare,Mancante,CSO,MAGENTA,10,604,1,530.0,50.0,580.0
+non alimentare,Mancante,CSO,MATTEOTTI GIACOMO,14,218,1,267.0,0.0,267.0
+non alimentare,Mancante,CSO,MATTEOTTI GIACOMO,8,218,1,300.0,80.0,380.0
+non alimentare,Mancante,CSO,MONFORTE,20,348,1,480.0,95.0,575.0
+non alimentare,Mancante,CSO,SAN GOTTARDO,35,5203,5,384.0,66.0,450.0
+non alimentare,Mancante,CSO,SAN GOTTARDO,42,5203,5,500.0,250.0,750.0
+non alimentare,Mancante,CSO,SEMPIONE,21,7137,8,256.0,18.0,274.0
+non alimentare,Mancante,CSO,VENEZIA,14,238,1,1435.0,190.0,1625.0
+non alimentare,Mancante,CSO,VENEZIA,2,238,1,475.0,0.0,475.0
+non alimentare,Mancante,CSO,VENEZIA,5,238,1,410.0,187.0,597.0
+non alimentare,Mancante,CSO,VERCELLI,16,6193,7,582.0,0.0,582.0
+non alimentare,Mancante,CSO,VITTORIO EMANUELE II,13,214,1,710.0,259.0,969.0
+non alimentare,Mancante,CSO,VITTORIO EMANUELE II,9,214,1,1500.0,0.0,1500.0
+non alimentare,Mancante,CSO,VITTORIO EMANUELE II,24,214,1,913.0,27.0,940.0
+non alimentare,Mancante,FOR,BUONAPARTE,24,711,1,519.0,223.0,742.0
+non alimentare,Mancante,GLL,DEL CORSO,4,305,1,1217.0,380.0,1597.0
+non alimentare,Mancante,GLL,PATTARI,2,296,1,1017.0,683.0,1700.0
+non alimentare,Mancante,GLL,STRASBURGO,3,297,1,357.0,0.0,357.0
+non alimentare,Mancante,LGO,BOCCIONI UMBERTO,6,7467,8,400.0,40.0,440.0
+non alimentare,Mancante,LGO,DOMODOSSOLA,1,6140,8,563.0,467.0,1030.0
+non alimentare,Mancante,LGO,ISARCO,2,4129,5,492.0,8.0,500.0
+non alimentare,Mancante,LGO,RICHINI FRANCESCO,1,331,1,293.0,37.0,330.0
+non alimentare,Mancante,PAS,DUOMO,2,102,1,600.0,150.0,750.0
+non alimentare,Mancante,PLE,AQUILEIA,6,6205,7,320.0,0.0,320.0
+non alimentare,Mancante,PLE,CHIESA DAMIANO,2,7164,8,2277.0,1000.0,3277.0
+non alimentare,Mancante,PLE,CIMITERO MAGGIORE,12,7442,8,270.0,270.0,540.0
+non alimentare,Mancante,PTA,BOSSI MAURILIO,4,116,1,400.0,800.0,1200.0
+non alimentare,Mancante,PTA,GIORDANO UMBERTO,4,345,1,390.0,0.0,390.0
+non alimentare,Mancante,PZA,DELLA TRIVULZIANA,5,1765,9,1100.0,640.0,1740.0
+non alimentare,Mancante,PZA,DELLA TRIVULZIANA,6,1765,9,1100.0,327.0,1427.0
+non alimentare,Mancante,PZA,OTTO NOVEMBRE,6,2187,3,267.0,3.0,270.0
+non alimentare,Mancante,PZA,RISORGIMENTO,10,3117,4,302.0,19.0,321.0
+non alimentare,Mancante,PZA,SAN BABILA,1,216,1,1329.0,481.0,1810.0
+non alimentare,Mancante,PZA,SAN MARCO,1,1040,1,340.0,57.0,397.0
+non alimentare,Mancante,PZA,SANTA MARIA BELTRADE,1,514,1,417.0,365.0,782.0
+non alimentare,Mancante,PZA,VENTICINQUE APRILE,12,1064,9,781.0,0.0,781.0
+non alimentare,Mancante,PZA,VENTIQUATTRO MAGGIO,8,5200,5,400.0,80.0,480.0
+non alimentare,Mancante,PZA,VESUVIO,19,6110,7,1200.0,1600.0,2800.0
+non alimentare,Mancante,PZA,VETRA,21,515,1,340.0,0.0,340.0
+non alimentare,Mancante,RIP,DI PTA TICINESE,47,5150,6,300.0,0.0,300.0
+non alimentare,Mancante,VIA,ACHILLINI CLAUDIO,2,1605,9,1500.0,0.0,1500.0
+non alimentare,Mancante,VIA,ALDINI ANTONIO,28,7461,8,276.0,138.0,414.0
+non alimentare,Mancante,VIA,ALEARDI ALEARDO,15,7209,8,600.0,0.0,600.0
+non alimentare,Mancante,VIA,ALUNNO NICOLO',23,6640,7,400.0,0.0,400.0
+non alimentare,Mancante,VIA,AMADEO GIAN ANTONIO,40,3228,3,360.0,224.0,584.0
+non alimentare,Mancante,VIA,ANTONINI GIACOMO,26,4250,5,1499.0,0.0,1499.0
+non alimentare,Mancante,VIA,ARNALDO DA BRESCIA,4,1151,9,607.0,0.0,607.0
+non alimentare,Mancante,VIA,ARONA,4,7169,8,490.0,150.0,640.0
+non alimentare,Mancante,VIA,BALESTRIERI DOMENICO,6,7116,1,310.0,0.0,310.0
+non alimentare,Mancante,VIA,BARONA,21,5356,6,500.0,0.0,500.0
+non alimentare,Mancante,VIA,BELGIRATE,24,1406,2,870.0,220.0,1090.0
+non alimentare,Mancante,VIA,BENADIR,5,2380,2,1500.0,700.0,2200.0
+non alimentare,Mancante,VIA,BIGLI,19,224,1,270.0,110.0,380.0
+non alimentare,Mancante,VIA,BODONI GIAMBATTISTA,2,7261,8,356.0,0.0,356.0
+non alimentare,Mancante,VIA,BORDIGHERA,12,5265,5,480.0,0.0,480.0
+non alimentare,Mancante,VIA,BORGOGNA,2,301,1,270.0,0.0,270.0
+non alimentare,Mancante,VIA,CACCIATORI BENEDETTO,12,6305,7,280.0,0.0,280.0
+non alimentare,Mancante,CSO,BUENOS AIRES,2,2129,3,2500.0,0.0,2500.0
+non alimentare,Mancante,VIA,CALZECCHI TEMISTOCLE,17,3241,3,300.0,291.0,591.0
+non alimentare,Mancante,VIA,CARLI GIAN RINALDO,9,1563,9,456.0,90.0,546.0
+non alimentare,Mancante,VIA,CARNEVALI ANTONIO,28,1268,9,300.0,50.0,350.0
+non alimentare,Mancante,VIA,CASARSA,9,1577,9,476.0,14.0,490.0
+non alimentare,Mancante,VIA,CASORETTO,33,2420,3,290.0,0.0,290.0
+non alimentare,Mancante,VIA,CASSINIS GIOVANNI BATTISTA,23,4309,4,3163.0,0.0,3163.0
+non alimentare,Mancante,VIA,CASSINIS GIOVANNI BATTISTA,7,4309,4,305.0,0.0,305.0
+non alimentare,Mancante,VIA,CATULLO,8,7428,8,286.0,0.0,286.0
+non alimentare,Mancante,VIA,CHIESE,60,1627,9,1299.0,796.0,2095.0
+non alimentare,Mancante,VIA,COLONNA MARCO ANTONIO,35,7158,8,350.0,0.0,350.0
+non alimentare,Mancante,VIA,CONFALONIERI FEDERICO,34,1125,9,485.0,82.0,567.0
+non alimentare,Mancante,VIA,CUSANI,10,719,1,261.0,0.0,261.0
+non alimentare,Mancante,VIA,DE AMICIS EDMONDO,29,574,1,2394.0,0.0,2394.0
+non alimentare,Mancante,VIA,DEGLI ZUCCARO,9,5390,6,800.0,0.0,800.0
+non alimentare,Mancante,VIA,DEI CROLLALANZA,4,5311,6,800.0,1490.0,2290.0
+non alimentare,Mancante,VIA,DEI MISSAGLIA,34,5340,5,990.0,0.0,990.0
+non alimentare,Mancante,VIA,DEL DUCA CINO,12,362,1,300.0,110.0,410.0
+non alimentare,Mancante,VIA,DELL' ANNUNCIATA,2,140,1,913.0,197.0,1110.0
+non alimentare,Mancante,VIA,DELL' ORSO,7,123,1,269.0,172.0,441.0
+non alimentare,Mancante,VIA,DUPRE' GIOVANNI,14,7252,8,800.0,0.0,800.0
+non alimentare,Mancante,VIA,DURINI,16,313,1,600.0,150.0,750.0
+non alimentare,Mancante,VIA,DURINI,1,313,1,329.0,93.0,422.0
+non alimentare,Mancante,VIA,DURINI,25,313,1,330.0,120.0,450.0
+non alimentare,Mancante,VIA,FALLOPPIO GABRIELE,11,2424,3,292.0,0.0,292.0
+non alimentare,Mancante,VIA,FARA GUSTAVO,39,1183,9,800.0,0.0,800.0
+non alimentare,Mancante,VIA,FARINI CARLO,47,1114,9,660.0,0.0,660.0
+non alimentare,Mancante,VIA,FELTRE,17,2652,3,314.0,0.0,314.0
+non alimentare,Mancante,VIA,FELTRE,30,2652,3,1100.0,0.0,1100.0
+non alimentare,Mancante,CSO,BUENOS AIRES,47,2129,3,500.0,0.0,500.0
+non alimentare,Mancante,VIA,FERRUCCI FRANCESCO,2,7150,8,310.0,20.0,330.0
+non alimentare,Mancante,VIA,FILZI FABIO,8,1190,2,800.0,150.0,950.0
+non alimentare,Mancante,VIA,F.LLI BRONZETTI,16,3089,4,428.0,0.0,428.0
+non alimentare,Mancante,VIA,F.LLI GABBA,1,146,1,564.0,26.0,590.0
+non alimentare,Mancante,VIA,F.LLI ZOIA,71,6306,7,600.0,10.0,610.0
+non alimentare,Mancante,VIA,FOLLI EGIDIO,96,2676,3,600.0,0.0,600.0
+non alimentare,Mancante,VIA,FRIULI,16,3199,4,794.0,406.0,1200.0
+non alimentare,Mancante,VIA,GADAMES,57,7423,8,450.0,0.0,450.0
+non alimentare,Mancante,VIA,GAGGIA PIETRO,1,4187,4,280.0,20.0,300.0
+non alimentare,Mancante,VIA,GALLARATE,219,7420,8,253.0,0.0,253.0
+non alimentare,Mancante,VIA,GALLI MARIO,19,1304,9,287.0,71.0,358.0
+non alimentare,Mancante,VIA,GATTAMELATA,41,7156,8,1330.0,0.0,1330.0
+non alimentare,Mancante,CSO,SEMPIONE,51,7137,8,848.0,0.0,848.0
+non alimentare,Mancante,VIA,GIOIA MELCHIORRE,62,1108,2,320.0,50.0,370.0
+non alimentare,Mancante,VIA,GIOVANNI DA UDINE,3,7408,8,530.0,337.0,867.0
+non alimentare,Mancante,VIA,GONIN FRANCESCO,11,5376,6,775.0,1.0,776.0
+non alimentare,Mancante,VIA,GROSOTTO,7,7328,8,723.0,57.0,780.0
+non alimentare,Mancante,VIA,HOEPLI ULRICO,3,190,1,778.0,0.0,778.0
+non alimentare,Mancante,VIA,HOEPLI ULRICO,5,190,1,1390.0,500.0,1890.0
+non alimentare,Mancante,VIA,IMPERIA,15,5266,5,315.0,550.0,865.0
+non alimentare,Mancante,VIA,LARIO,11,1171,9,350.0,15.0,365.0
+non alimentare,Mancante,VIA,LAZZARETTO,17,2112,2,405.0,15.0,420.0
+non alimentare,Mancante,VIA,LENTASIO,1,410,1,355.0,250.0,605.0
+non alimentare,Mancante,VIA,LEOPARDI GIACOMO,7,6156,1,370.0,50.0,420.0
+non alimentare,Mancante,VIA,LEPONTINA,12,1147,9,380.0,10.0,390.0
+non alimentare,Mancante,VIA,LESMI,7,5095,1,320.0,0.0,320.0
+non alimentare,Mancante,VIA,LORENTEGGIO,27,5132,6,350.0,0.0,350.0
+non alimentare,Mancante,VIA,MADERNA BRUNO,2,3382,4,500.0,0.0,500.0
+non alimentare,Mancante,VIA,MARCO D'AGRATE,8,4276,5,730.0,390.0,1120.0
+non alimentare,Mancante,VIA,MARIANI POMPEO,2,2490,2,1350.0,0.0,1350.0
+non alimentare,Mancante,VIA,MARTINI SIMONE,3,5307,6,750.0,0.0,750.0
+non alimentare,Mancante,VIA,MAZZINI GIUSEPPE,2,516,1,648.0,0.0,648.0
+non alimentare,Mancante,VIA,MEDEGHINO,9,5335,5,319.0,40.0,359.0
+non alimentare,Mancante,VLE,PAPINIANO,12,5097,1,523.0,0.0,523.0
+non alimentare,Mancante,VIA,MONTE NAPOLEONE,11,219,1,800.0,0.0,800.0
+non alimentare,Mancante,VIA,MONTE NAPOLEONE,4,219,1,891.0,560.0,1451.0
+non alimentare,Mancante,VIA,MONTE SAN GABRIELE,8,2481,2,420.0,0.0,420.0
+non alimentare,Mancante,VIA,MURATORI LODOVICO,13,4076,4,772.0,2052.0,2824.0
+non alimentare,Mancante,VIA,MURATORI LODOVICO,27,4076,4,724.0,276.0,1000.0
+non alimentare,Mancante,VIA,AOSTA,6,7227,8,450.0,0.0,450.0
+non alimentare,Mancante,VIA,NERINO,12,564,1,362.0,225.0,587.0
+non alimentare,Mancante,VIA,NERVESA,30,4167,4,800.0,0.0,800.0
+non alimentare,Mancante,VIA,NIEVO IPPOLITO,41,6354,8,470.0,0.0,470.0
+non alimentare,Mancante,VIA,NOVARA,127,6624,7,286.0,0.0,286.0
+non alimentare,Mancante,VIA,OLONA,25,5090,1,261.0,0.0,261.0
+non alimentare,Mancante,VIA,PACINI GIOVANNI,64,2571,3,406.0,10.0,416.0
+non alimentare,Mancante,VIA,PADOVA,237,2275,2,600.0,0.0,600.0
+non alimentare,Mancante,VIA,PAISIELLO GIOVANNI,1,2245,3,280.0,270.0,550.0
+non alimentare,Mancante,VIA,PALAZZI LAZZARO,2,2171,3,563.0,442.0,1005.0
+non alimentare,Mancante,VIA,PALIZZI FILIPPO,69,7451,8,760.0,51.0,811.0
+non alimentare,Mancante,VIA,PANZERI PIETRO,10,5183,1,384.0,0.0,384.0
+non alimentare,Mancante,VIA,PASSO BUOLE,4,4218,5,400.0,0.0,400.0
+non alimentare,Mancante,VIA,PAULLO,11,3177,4,428.0,330.0,758.0
+non alimentare,Mancante,VIA,PECCHIO GIUSEPPE,10,2240,3,800.0,0.0,800.0
+non alimentare,Mancante,VIA,PELLINI EUGENIO,3,1482,2,396.0,0.0,396.0
+non alimentare,Mancante,VIA,PETITTI CARLO ILARIONE,5,7161,8,270.0,100.0,370.0
+non alimentare,Mancante,VIA,PETITTI CARLO ILARIONE,6,7161,8,320.0,0.0,320.0
+non alimentare,Mancante,VIA,PLANA GIOVANNI ANTONIO,38,7177,8,433.0,0.0,433.0
+non alimentare,Mancante,VIA,PONTACCIO,3,143,1,300.0,0.0,300.0
+non alimentare,Mancante,VIA,PORTA CARLO,1,1051,1,340.0,35.0,375.0
+non alimentare,Mancante,VIA,QUARENGHI GIACOMO,40,7478,8,390.0,0.0,390.0
+non alimentare,Mancante,VIA,ROSSI PELLEGRINO,15,1510,9,300.0,30.0,330.0
+non alimentare,Mancante,VIA,ROSSO DI SAN SECONDO,15,3009,3,570.0,75.0,645.0
+non alimentare,Mancante,VIA,SAN BARNABA,27,3010,1,358.0,0.0,358.0
+non alimentare,Mancante,VIA,SAN DAMIANO,4,351,1,485.0,0.0,485.0
+non alimentare,Mancante,VIA,SANDRI SANDRO,2,1046,1,251.0,0.0,251.0
+non alimentare,Mancante,VIA,SAN GREGORIO,1,2123,2,1250.0,285.0,1535.0
+non alimentare,Mancante,VIA,SAN GREGORIO,48,2123,2,300.0,250.0,550.0
+non alimentare,Mancante,VIA,SAN MARCO,26,1036,1,398.0,105.0,503.0
+non alimentare,Mancante,VIA,SAN PIETRO ALL'ORTO,10,213,1,565.0,250.0,815.0
+non alimentare,Mancante,VIA,SAN SIRO,31,6282,7,350.0,0.0,350.0
+non alimentare,Mancante,VIA,SANTA CECILIA,4,349,1,255.0,0.0,255.0
+non alimentare,Mancante,VIA,SANTA CROCE,8,5188,1,270.0,130.0,400.0
+non alimentare,Mancante,VIA,SANTA MARIA VALLE,1,535,1,294.0,0.0,294.0
+non alimentare,Mancante,VIA,SANTA MARIA VALLE,3,535,1,390.0,510.0,900.0
+non alimentare,Mancante,VIA,SANT' ANDREA,11,222,1,277.0,23.0,300.0
+non alimentare,Mancante,VIA,SANT' ANDREA,5,222,1,331.0,0.0,331.0
+non alimentare,Mancante,VIA,SANT' ANDREA,10,222,1,290.0,0.0,290.0
+non alimentare,Mancante,VIA,SANTO SPIRITO,19,228,1,337.0,163.0,500.0
+non alimentare,Mancante,VIA,SARPI FRA' PAOLO,4,7210,8,693.0,0.0,693.0
+non alimentare,Mancante,VIA,SARPI FRA' PAOLO,60,7210,8,251.0,0.0,251.0
+non alimentare,Mancante,VIA,SAVONA,25,5122,6,265.0,0.0,265.0
+non alimentare,Mancante,VIA,SCANINI ALESSANDRO,9,6755,7,512.0,0.0,512.0
+non alimentare,Mancante,VIA,SCIESA AMATORE,21,3072,4,450.0,60.0,510.0
+non alimentare,Mancante,VIA,SIRTORI GIUSEPPE,26,2180,3,1530.0,0.0,1530.0
+non alimentare,Mancante,VIA,SOLFERINO,11,1028,1,347.0,0.0,347.0
+non alimentare,Mancante,VIA,SOLFERINO,39,1028,1,1200.0,8.0,1208.0
+non alimentare,Mancante,VIA,SOLONE,8,2346,2,500.0,0.0,500.0
+non alimentare,Mancante,VIA,SORESINA GIOVANNI BATTISTA,14,6207,7,3000.0,40.0,3040.0
+non alimentare,Mancante,VIA,SPALLANZANI LAZZARO,5,2153,3,878.0,305.0,1183.0
+non alimentare,Mancante,VIA,SPERONARI,8,517,1,701.0,162.0,863.0
+non alimentare,Mancante,VIA,STRIGELLI GAETANO,13,3214,4,270.0,0.0,270.0
+non alimentare,Mancante,VIA,TAGIURA,19,6125,6,294.0,0.0,294.0
+non alimentare,Mancante,VIA,TAZZOLI ENRICO,11,1118,9,376.0,0.0,376.0
+non alimentare,Mancante,VIA,TEANO,6,1632,9,403.0,0.0,403.0
+non alimentare,Mancante,VIA,TESSA DELIO,1,1020,1,600.0,0.0,600.0
+non alimentare,Mancante,VIA,TIMAVO,32,1174,2,840.0,346.0,1186.0
+non alimentare,Mancante,VIA,TOCE,11,1325,9,380.0,8.0,388.0
+non alimentare,Mancante,VIA,TOLSTOI LEONE,87,5133,6,762.0,0.0,762.0
+non alimentare,Mancante,VIA,TORINO,23,543,1,298.0,99.0,397.0
+non alimentare,Mancante,VIA,TORINO,44,543,1,395.0,226.0,621.0
+non alimentare,Mancante,VIA,TRAIANO MARCO ULPIO,79,7157,8,375.0,128.0,503.0
+non alimentare,Mancante,VIA,VALSOLDA,11,5288,6,1150.0,1000.0,2150.0
+non alimentare,Mancante,VIA,VALTELLINA,17,1188,9,358.0,0.0,358.0
+non alimentare,Mancante,VIA,VARANINI LUIGI,28,2288,2,400.0,0.0,400.0
+non alimentare,Mancante,VIA,VENINI GIULIO E CORRADO,46,2258,2,251.0,22.0,273.0
+non alimentare,Mancante,VIA,VENINI GIULIO E CORRADO,87,2258,2,345.0,25.0,370.0
+non alimentare,Mancante,VIA,VERRI PIETRO,8,223,1,267.0,97.0,364.0
+non alimentare,Mancante,VIA,VICO GIAN BATTISTA,14,6219,1,307.0,15.0,322.0
+non alimentare,Mancante,VIA,VIPACCO,36,2444,2,312.0,0.0,312.0
+non alimentare,Mancante,VIA,VISCONTI DI MODRONE UBERTO,12,361,1,265.0,0.0,265.0
+non alimentare,Mancante,VIA,VODICE,3,6552,7,375.0,0.0,375.0
+non alimentare,Mancante,VIA,VOLTERRA,12,6260,7,540.0,110.0,650.0
+non alimentare,Mancante,VIA,WITTGENS FERNANDA,5,597,1,502.0,0.0,502.0
+non alimentare,Mancante,VIA,ZANELLA GIACOMO,36,3257,4,378.0,0.0,378.0
+non alimentare,Mancante,VIA,ZANELLA GIACOMO,61,3257,4,1500.0,455.0,1955.0
+non alimentare,Mancante,VLE,ABRUZZI,51,2177,3,292.0,0.0,292.0
+non alimentare,Mancante,VLE,ABRUZZI,13,2177,3,300.0,0.0,300.0
+non alimentare,Mancante,VLE,AFFORI,19,1545,9,450.0,150.0,600.0
+non alimentare,Mancante,VLE,CASSALA,14,5275,6,566.0,240.0,806.0
+non alimentare,Mancante,VIA,MANZOTTI LUIGI,24,1300,9,350.0,0.0,350.0
+non alimentare,Mancante,VLE,CERTOSA,135,7174,8,1000.0,0.0,1000.0
+non alimentare,Mancante,VLE,CERTOSA,36,7174,8,374.0,326.0,700.0
+non alimentare,Mancante,VLE,CERTOSA,9,7174,8,600.0,0.0,600.0
+non alimentare,Mancante,VLE,CIRENE,22,4085,4,420.0,0.0,420.0
+non alimentare,Mancante,VLE,COL DI LANA,6,5198,5,470.0,0.0,470.0
+non alimentare,Mancante,VLE,DI PORTA VERCELLINA,16,6213,1,388.0,0.0,388.0
+non alimentare,Mancante,VLE,DORIA ANDREA,24,2230,3,322.0,0.0,322.0
+non alimentare,Mancante,VLE,EGINARDO,15,6366,8,826.0,1524.0,2350.0
+non alimentare,Mancante,VLE,ESPINASSE CARLO,106,7390,8,305.0,0.0,305.0
+non alimentare,Mancante,VLE,FAMAGOSTA,44,5353,6,430.0,0.0,430.0
+non alimentare,Mancante,VIA,BRIZI EUGENIO,4,4186,4,1350.0,0.0,1350.0
+non alimentare,Mancante,VLE,GORIZIA,14,5156,6,400.0,2.0,402.0
+non alimentare,Mancante,VLE,JENNER EDOARDO,29,1230,9,400.0,500.0,900.0
+non alimentare,Mancante,VLE,LANCETTI VINCENZO,17,1221,9,1000.0,4600.0,5600.0
+non alimentare,Mancante,VLE,LIGURIA,28,5264,6,361.0,0.0,361.0
+non alimentare,Mancante,VLE,MARTINI ENRICO,9,4175,4,755.0,0.0,755.0
+non alimentare,Mancante,VLE,MONTE NERO,32,3062,4,910.0,30.0,940.0
+non alimentare,Mancante,VLE,MONZA,107,2274,2,868.0,0.0,868.0
+non alimentare,Mancante,VLE,MONZA,113,2274,2,455.0,100.0,555.0
+non alimentare,Mancante,VLE,MONZA,16,2274,2,560.0,40.0,600.0
+non alimentare,Mancante,VLE,MONZA,237,2274,2,414.0,0.0,414.0
+non alimentare,Mancante,VLE,MONZA,244,2274,2,470.0,0.0,470.0
+non alimentare,Mancante,VLE,MONZA,289,2274,2,584.0,0.0,584.0
+non alimentare,Mancante,VLE,MONZA,40,2274,2,300.0,0.0,300.0
+non alimentare,Mancante,VLE,MONZA,9,2274,2,387.0,0.0,387.0
+non alimentare,Mancante,VIA,PALMANOVA,65,2390,2,590.0,350.0,940.0
+non alimentare,Mancante,VLE,PASUBIO,13,1112,1,300.0,0.0,300.0
+non alimentare,Mancante,VLE,ROMOLO,9,5284,6,615.0,458.0,1073.0
+non alimentare,Mancante,VLE,SABOTINO,4,4046,5,350.0,0.0,350.0
+non alimentare,Mancante,VLE,STELVIO,3,1227,9,651.0,1849.0,2500.0
+non alimentare,Mancante,VLE,STELVIO,47,1227,9,600.0,400.0,1000.0
+non alimentare,Mancante,VLE,TIBALDI,3,5234,5,280.0,0.0,280.0
+non alimentare,Mancante,VLE,UMBRIA,126,3145,4,490.0,0.0,490.0
+non alimentare,2f climatizzazione,VIA,INGANNI ANGELO,64,6672,6,264.0,36.0,300.0
+non alimentare,abbigliamento bambino,VIA,BALZARETTI GIUSEPPE,28,2197,3,268.0,0.0,268.0
+non alimentare,a. bellomi,VIA,LOMELLINA,64,3280,4,400.0,500.0,900.0
+non alimentare,aber crombie e fich,CSO,MATTEOTTI GIACOMO,12,218,1,1496.0,690.0,2186.0
+non alimentare,ader,VIA,SANTA MARIA ALLA PORTA,1,620,1,310.0,150.0,460.0
+non alimentare,a.foppapedretti l albero,VIA,MAMBRETTI ANTONIO,9,7455,8,506.0,0.0,506.0
+non alimentare,aica concessionaria fiat,VIA,SISMONDI GIANCARLO,70,3256,4,400.0,0.0,400.0
+non alimentare,alberto germani sportrend,CSO,VERCELLI,3,6193,7,464.0,142.0,606.0
+non alimentare,alviero martini,CSO,MATTEOTTI GIACOMO,1,218,1,400.0,135.0,535.0
+non alimentare,antiquario,VIA,SAN PAOLO,1,212,1,406.0,0.0,406.0
+non alimentare,arc linea,PZA,MENTANA,3,560,1,257.0,0.0,257.0
+non alimentare,argenteria dabbene,LGO,TREVES CLAUDIO,2,1026,1,280.0,180.0,460.0
+non alimentare,arona spa-alfaromeo fiat,VIA,ARONA,15,7169,8,300.0,0.0,300.0
+non alimentare,arredamenti mobili,VIA,PRINETTI LUIGI,44,2329,2,659.0,0.0,659.0
+non alimentare,aspesi,VIA,MONTE NAPOLEONE,13,219,1,580.0,80.0,660.0
+non alimentare,autogiolli,VIA,MEDA GIUSEPPE,27,5242,5,450.0,0.0,450.0
+non alimentare,autogrill,VIA,FOSCOLO UGO,1,205,1,400.0,0.0,400.0
+non alimentare,autoplanet,VIA,DEI MISSAGLIA,89,5340,5,1323.0,3969.0,5292.0
+non alimentare,autoriparazioni salvioni,VIA,ARIMONDI GIUSEPPE,55,7179,8,256.0,300.0,556.0
+non alimentare,autosport milano,VIA,MESSINA,43,7211,8,350.0,100.0,450.0
+non alimentare,avalon,VIA,SETTEMBRINI LUIGI,20,2127,2,400.0,0.0,400.0
+non alimentare,b 612,VIA,VASARI GIORGIO,2,4070,4,823.0,0.0,823.0
+non alimentare,baby mix srl.,VLE,REGINA MARGHERITA,9,3059,1,475.0,170.0,645.0
+non alimentare,balloon,VIA,GIULINI GIORGIO,2,613,1,720.0,294.0,1014.0
+non alimentare,banner,VIA,SANT' ANDREA,8,222,1,386.0,0.0,386.0
+non alimentare,bardelli,CSO,MAGENTA,13,604,1,747.0,86.0,833.0
+non alimentare,bassetti,VIA,BOTTA CARLO,7,4069,4,600.0,0.0,600.0
+non alimentare,bassetti,VIA,PROCACCINI GIULIO CESARE,32,7204,8,300.0,0.0,300.0
+non alimentare,bellani,VIA,MOROSINI EMILIO,7,3073,4,265.0,0.0,265.0
+non alimentare,belmonte camiciaio italia,VIA,SETTEMBRINI LUIGI,11,2127,2,295.0,0.0,295.0
+non alimentare,bernardi abbigliamento,VIA,BASSI UGO,5,1143,9,371.0,0.0,371.0
+non alimentare,bershka,CSO,VITTORIO EMANUELE II,22,214,1,1341.0,1311.0,2652.0
+non alimentare,bershka,VIA,SPADARI,1,518,1,384.0,311.0,695.0
+non alimentare,betta e cereda srl,VIA,MARCO BRUTO,16,3322,4,1200.0,1500.0,2700.0
+non alimentare,blue basic,VIA,TORINO,51,543,1,330.0,64.0,394.0
+non alimentare,boggi,VIA,DURINI,28,313,1,650.0,0.0,650.0
+non alimentare,boggi milano e brian berr,VIA,CARETTA ANNIBALE,1,2241,3,410.0,0.0,410.0
+non alimentare,borghi,CSO,VERCELLI,38,6193,7,350.0,0.0,350.0
+non alimentare,boss hugo boss,CSO,MATTEOTTI GIACOMO,11,218,1,420.0,0.0,420.0
+non alimentare,brandy,VIA,S. GIOV. SUL MURO,18,609,1,380.0,0.0,380.0
+non alimentare,brico io,VIA,PITAGORA,7,2405,2,1200.0,0.0,1200.0
+non alimentare,bruno castoldi,CSO,LODI,6,4068,4,1106.0,0.0,1106.0
+non alimentare,buffwtti,FOR,BUONAPARTE,53,711,1,400.0,1000.0,1400.0
+non alimentare,burberry italy retail lim,VIA,BIGLI,2,224,1,750.0,332.0,1082.0
+non alimentare,buscemi dischi,CSO,MAGENTA,31,604,1,258.0,0.0,258.0
+non alimentare,cai,VIA,MEDA GIUSEPPE,16,5242,5,294.0,0.0,294.0
+non alimentare,cargo (high-tech srl),VIA,MEUCCI ANTONIO,41,2497,2,1244.0,2356.0,3600.0
+non alimentare,carretti hi-tech,VIA,LOSANNA,46,7190,8,325.0,0.0,325.0
+non alimentare,car village,VIA,GRASSI GIOVANNI BATTISTA,98,7465,8,1899.0,5697.0,7596.0
+non alimentare,castoldi,VLE,MONZA,204,2274,2,956.0,0.0,956.0
+non alimentare,cavi by nico,PZA,MEDA FILIPPO,3,211,1,295.0,160.0,455.0
+non alimentare,cdc poin spa,VIA,MONTALBINO,4,1340,9,500.0,0.0,500.0
+non alimentare,celio,GLL,BUENOS AIRES,9,2146,3,298.0,0.0,298.0
+non alimentare,celio,VIA,AGNELLO,2,209,1,320.0,153.0,473.0
+non alimentare,centro marmitte,VIA,IMPERIA,33,5266,5,550.0,0.0,550.0
+non alimentare,centro moda l E m,VIA,ORNATO LUIGI,148,1591,9,430.0,0.0,430.0
+non alimentare,cervi arredamenti,CSO,MONFORTE,19,348,1,500.0,100.0,600.0
+non alimentare,chateau d ax,CSO,LODI,38,4068,4,1480.0,0.0,1480.0
+non alimentare,chateau d ax,CSO,LODI,47,4068,4,600.0,200.0,800.0
+non alimentare,citroen,VIA,LIPARI,9,6203,7,410.0,0.0,410.0
+non alimentare,coeco elettro zanoni,VIA,RISMONDO FRANCESCO,1,6756,7,360.0,0.0,360.0
+non alimentare,co. import,PZA,DIAZ ARMANDO,6,339,1,468.0,57.0,525.0
+non alimentare,combipel,VIA,CUNEO,4,6281,7,500.0,1030.0,1530.0
+non alimentare,concessionari ricamb.fiat,VIA,GAMBOLOITA,4,4160,4,305.0,300.0,605.0
+non alimentare,concess.lancia saicar,VLE,ESPINASSE CARLO,110,7390,8,350.0,0.0,350.0
+non alimentare,cornegliani,VIA,MONTE NAPOLEONE,12,219,1,324.0,0.0,324.0
+non alimentare,corso europa emporio casa,CSO,EUROPA,2,300,1,540.0,80.0,620.0
+non alimentare,da driade,VIA,MANZONI ALESSANDRO,30,230,1,872.0,20.0,892.0
+non alimentare,darty,VIA,F.LLI BRONZETTI,37,3089,4,986.0,0.0,986.0
+non alimentare,darty,VLE,MURILLO S.B.,5,6551,7,1100.0,900.0,2000.0
+non alimentare,darty,VLE,SABOTINO,28,4046,5,720.0,0.0,720.0
+non alimentare,datch,VIA,TORINO,34,543,1,276.0,35.0,311.0
+non alimentare,d  E  g.,CSO,VENEZIA,15,238,1,713.0,480.0,1193.0
+non alimentare,d E g,VIA,DELLA SPIGA,26,226,1,898.0,280.0,1178.0
+non alimentare,d. E  g.,CSO,VENEZIA,7,238,1,656.0,211.0,867.0
+non alimentare,della fonte,CSO,VERCELLI,35,6193,7,400.0,60.0,460.0
+non alimentare,denicar spa.,VIA,BISCEGLIE,92,6707,6,847.0,0.0,847.0
+non alimentare,docks dora,VIA,TOFFETTI VINCENZO,9,4188,4,393.0,0.0,393.0
+non alimentare,dolce e gabbana,VIA,DELLA SPIGA,2,226,1,392.0,0.0,392.0
+non alimentare,dolomiti sport,PZA,DEL DUOMO,17,1,1,286.0,0.0,286.0
+non alimentare,ecliss top garden,RIP,DI PTA TICINESE,73,5150,6,270.0,0.0,270.0
+non alimentare,edil piave srl,VIA,CAMOZZI GABRIELE,7,6769,7,340.0,1660.0,2000.0
+non alimentare,elettrica ceriani/murrina,VLE,CERTOSA,177,7174,8,391.0,0.0,391.0
+non alimentare,e.manfredini-forniture id,VIA,FERRARIS GALILEO,7,7237,8,500.0,0.0,500.0
+non alimentare,emporio del libro,GLL,BUENOS AIRES,13,2146,3,430.0,30.0,460.0
+non alimentare,emporio isola,VIA,PRINA GIUSEPPE,11,7135,8,400.0,0.0,400.0
+non alimentare,energia,VIA,TORINO,19,543,1,550.0,200.0,750.0
+non alimentare,euroarredi,VIA,PASTORELLI GIOVANNI,19,5274,6,1200.0,15.0,1215.0
+non alimentare,euromics galimberti,CSO,BUENOS AIRES,64,2129,3,1100.0,0.0,1100.0
+non alimentare,euromics galimberti,VIA,SOLARI ANDREA,5,5111,6,1157.0,0.0,1157.0
+non alimentare,euronics,VLE,VITTORIO VENETO,20,2107,2,481.0,0.0,481.0
+non alimentare,euronics point,VLE,ARETUSA,37,6565,7,270.0,63.0,333.0
+non alimentare,evolution,VIA,LACAITA GIACOMO FILIPPO,2,4308,4,375.0,0.0,375.0
+non alimentare,femi rinaldi sonepar,VIA,SOTTOCORNO PASQUALE,52,3152,4,350.0,0.0,350.0
+non alimentare,ferrari,PZA,DEL LIBERTY,8,98,1,596.0,244.0,840.0
+non alimentare,fiat succ. vendita assist,VIA,GROSIO,9,7483,8,675.0,17183.0,17858.0
+non alimentare,fined finanz.editoriale,PZA,PIEMONTE,2,6254,7,1973.0,827.0,2800.0
+non alimentare,finporte snc,VIA,WILDT ADOLFO,2,2554,3,340.0,52.0,392.0
+non alimentare,f.lli civeni ass. e vend.,VIA,CORREGGIO,8,6287,7,498.0,70.0,568.0
+non alimentare,flli fumagalli garden,VIA,BOLZANO,1,2312,2,382.0,0.0,382.0
+non alimentare,f.lli simoni snc.,VLE,MONZA,258,2274,2,550.0,0.0,550.0
+non alimentare,fondamentali,VIA,MANZONI ALESSANDRO,12,230,1,349.0,0.0,349.0
+non alimentare,fondazione metropolitan,VIA,SANT' EUFEMIA,25,405,1,550.0,0.0,550.0
+non alimentare,fontana arredamenti,VIA,VIGEVANO,22,5116,6,256.0,0.0,256.0
+non alimentare,frette,CSO,VERCELLI,23,6193,7,340.0,55.0,395.0
+non alimentare,frette,VIA,ANDEGARI,18,120,1,480.0,0.0,480.0
+non alimentare,frigerio gomme,PLE,SUSA,12,3101,4,400.0,20.0,420.0
+non alimentare,frigerio pellicce,CSO,BUENOS AIRES,41,2129,3,500.0,0.0,500.0
+non alimentare,fulgida srl,VIA,LEPONTINA,2,1147,9,968.0,500.0,1468.0
+non alimentare,gabbai,VIA,PISANI VITTOR,8,1201,2,350.0,0.0,350.0
+non alimentare,galbiati arreda,VLE,CERTOSA,21,7174,8,1016.0,0.0,1016.0
+non alimentare,galleria carla sozzani,CSO,COMO,10,1111,9,550.0,0.0,550.0
+non alimentare,garage porpora autofficin,VIA,TEODOSIO,55,2550,3,300.0,350.0,650.0
+non alimentare,gbc componenti elettronic,CSO,BUENOS AIRES,55,2129,3,288.0,0.0,288.0
+non alimentare,gb sportelli,CSO,BUENOS AIRES,23,2129,3,381.0,64.0,445.0
+non alimentare,geco sanitari,VIA,SAN MAMETE,54,2413,2,548.0,0.0,548.0
+non alimentare,germani sport,CSO,VERCELLI,18,6193,7,780.0,156.0,936.0
+non alimentare,germani sport,PTA,PATTARI,4,299,1,954.0,0.0,954.0
+non alimentare,germani sport,VLE,TROYA CARLO,5,5140,6,475.0,0.0,475.0
+non alimentare,giacomelli sport,PZA,ARGENTINA,4,2233,3,891.0,259.0,1150.0
+non alimentare,giaguaro srl,VLE,CASSALA,61,5275,6,400.0,400.0,800.0
+non alimentare,gianfranco ferre,VIA,SANT' ANDREA,15,222,1,289.0,0.0,289.0
+non alimentare,gianni campagna,VIA,PALESTRO,24,2102,1,500.0,0.0,500.0
+non alimentare,gio moretti jenny,VIA,DELLA SPIGA,4,226,1,745.0,0.0,745.0
+non alimentare,giorgio armani,VIA,SANT' ANDREA,9,222,1,1040.0,724.0,1764.0
+non alimentare,giovenzana,LGO,AUGUSTO,10,315,1,273.0,41.0,314.0
+non alimentare,giussani,VIA,ROSSI PELLEGRINO,80,1510,9,499.0,0.0,499.0
+non alimentare,gold market,VIA,GUINIZELLI GUIDO,22,2281,2,480.0,210.0,690.0
+non alimentare,golf house,VIA,GALLARATE,221,7420,8,400.0,0.0,400.0
+non alimentare,gottardo sport,CSO,SAN GOTTARDO,19,5203,5,283.0,0.0,283.0
+non alimentare,grimaldi motors,VIA,FERRUCCI FRANCESCO,6,7150,8,380.0,44.0,424.0
+non alimentare,gucci,VIA,MONTE NAPOLEONE,5,219,1,1482.0,947.0,2429.0
+non alimentare,guess,VIA,MELZO,36,2184,3,320.0,0.0,320.0
+non alimentare,gusella,CSO,VITTORIO EMANUELE II,37,214,1,280.0,0.0,280.0
+non alimentare,hass dal 1811,VIA,MEDA GIUSEPPE,52,5242,5,380.0,0.0,380.0
+non alimentare,hb casa,VLE,MONTE CENERI,75,7176,8,417.0,0.0,417.0
+non alimentare,h  E  m,CSO,VITTORIO EMANUELE II,1,214,1,950.0,329.0,1279.0
+non alimentare,hermes,VIA,SANT' ANDREA,21,222,1,317.0,196.0,513.0
+non alimentare,hi-fi,PZA,DE ANGELI ERNESTO,1,6276,7,290.0,0.0,290.0
+non alimentare,iceberg,VIA,MONTE NAPOLEONE,10,219,1,271.0,0.0,271.0
+non alimentare,idea bricolage,VIA,MAFFUCCI ANGIOLO,4,1276,9,390.0,0.0,390.0
+non alimentare,il bagno ideale,VIA,SAN SISTO,3,513,1,254.0,0.0,254.0
+non alimentare,il caminetto,VIA,ENNIO,6,4090,4,269.0,0.0,269.0
+non alimentare,il libraccio,VIA,SANTA TECLA,5,321,1,260.0,0.0,260.0
+non alimentare,il pentagono,VLE,LIGURIA,40,5264,6,600.0,0.0,600.0
+non alimentare,jannelli e volpi,VIA,MELZO,7,2184,3,300.0,0.0,300.0
+non alimentare,jil sander,VIA,VERRI PIETRO,6,223,1,400.0,0.0,400.0
+non alimentare,just cavalli,VIA,DELLA SPIGA,30,226,1,343.0,149.0,492.0
+non alimentare,koivu,CSO,EUROPA,12,300,1,770.0,0.0,770.0
+non alimentare,la casa italiana,VLE,ELVEZIA,22,7085,1,309.0,357.0,666.0
+non alimentare,la libreria dei ragazzi,VIA,TADINO ALESSANDRO,53,2109,3,300.0,300.0,600.0
+non alimentare,lalique,CSO,MATTEOTTI GIACOMO,3,218,1,252.0,10.0,262.0
+non alimentare,lancia,VIA,MEDA GIUSEPPE,11,5242,5,550.0,0.0,550.0
+non alimentare,land rover,PZA,NAPOLI,2,5131,6,741.0,0.0,741.0
+non alimentare,la rinascente,VIA,SANTA RADEGONDA,10,208,1,1490.0,0.0,1490.0
+non alimentare,larusmiani,VIA,VERRI PIETRO,10,223,1,500.0,0.0,500.0
+non alimentare,le copen,VIA,MANZONI ALESSANDRO,21,230,1,351.0,170.0,521.0
+non alimentare,libero srl.,VIA,OSOPPO,21,6596,7,317.0,0.0,317.0
+non alimentare,libreria del corso,CSO,BUENOS AIRES,51,2129,3,666.0,121.0,787.0
+non alimentare,libreria egea,VIA,BOCCONI FERDINANDO,8,4050,5,733.0,0.0,733.0
+non alimentare,libreria esoterica,GLL,UNIONE,1,510,1,300.0,0.0,300.0
+non alimentare,libreria intern. cavour,PZA,CAVOUR,1,237,1,290.0,80.0,370.0
+non alimentare,libreria rizzoli,GLL,VITTORIO EMANUELE,79,10,1,1015.0,285.0,1300.0
+non alimentare,libreria san paolo,PZA,DEL DUOMO,20,1,1,406.0,158.0,564.0
+non alimentare,liu.jo,CSO,VITTORIO EMANUELE II,30,214,1,277.0,0.0,277.0
+non alimentare,louis vuitton,VIA,MONTE NAPOLEONE,2,219,1,1026.0,506.0,1532.0
+non alimentare,lucky music strumenti m.,VIA,SODERINI LUIGI,54,6675,6,488.0,0.0,488.0
+non alimentare,magia 2,VIA,GUINTELLINO GUGLIELMO,26,5369,6,333.0,0.0,333.0
+non alimentare,mango,VIA,TORINO,21,543,1,748.0,452.0,1200.0
+non alimentare,marco polo expert,VIA,CANONICA LUIGI,55,7121,1,1000.0,908.0,1908.0
+non alimentare,marionnaud parfumeries,VLE,MONZA,2,2274,2,344.0,204.0,548.0
+non alimentare,matuella,VIA,CASTALDI PANFILO,41,2119,3,380.0,250.0,630.0
+non alimentare,max  E  co.,VIA,DANTE ALIGHIERI,7,612,1,270.0,0.0,270.0
+non alimentare,max  E  co max mara,CSO,GENOVA,16,5164,1,585.0,173.0,758.0
+non alimentare,maxmara,PZA,SAN BABILA,5,216,1,1039.0,310.0,1349.0
+non alimentare,max mara,PZA,DEL LIBERTY,4,98,1,1415.0,710.0,2125.0
+non alimentare,m.c. selvini,VIA,POERIO CARLO,3,3181,3,508.0,292.0,800.0
+non alimentare,meazza,VIA,SAN SISTO,9,513,1,470.0,350.0,820.0
+non alimentare,media world,VIA,LORENTEGGIO,230,5132,6,930.0,436.0,1366.0
+non alimentare,media world,VLE,TROYA CARLO,18,5140,6,2350.0,8850.0,11200.0
+non alimentare,melablu,PLE,LODI,3,4249,4,820.0,203.0,1023.0
+non alimentare,melablu,VIA,OROPA,4,2381,2,1107.0,143.0,1250.0
+non alimentare,melchionni diffusione,VIA,PINDARO,7,2401,2,470.0,42.0,512.0
+non alimentare,mercato dell usato,VIA,CAPECELATRO ALFONSO,9,6575,7,255.0,0.0,255.0
+non alimentare,mercedes benz,VIA,DAIMLER GOTTLIEB WILHELM,1,7587,8,958.0,6707.0,7665.0
+non alimentare,mercedes benz milano,VIA,PADOVA,15,2275,2,450.0,0.0,450.0
+non alimentare,mercedes benz milano,VIA,TITO LIVIO,30,4086,4,255.0,0.0,255.0
+non alimentare,midas,VIA,LORENTEGGIO,264,5132,6,607.0,0.0,607.0
+non alimentare,milano star mercedes benz,VIA,TITO LIVIO,28,4086,4,277.0,0.0,277.0
+non alimentare,mitsubishi motors,VLE,CERTOSA,148,7174,8,485.0,0.0,485.0
+non alimentare,mobili cucine divani,VIA,LEONCAVALLO RUGGERO,17,2389,2,1000.0,0.0,1000.0
+non alimentare,mobili vercesi,VLE,MONZA,23,2274,2,395.0,75.0,470.0
+non alimentare,mondadori informatica,VIA,BERCHET GIOVANNI,2,206,1,1464.0,0.0,1464.0
+non alimentare,mondadori multicenter,VIA,DOGANA,2,341,1,2300.0,1908.0,4208.0
+non alimentare,mornata art decor,VIA,MOLINO DELLE ARMI,49,591,1,270.0,0.0,270.0
+non alimentare,morotti arredamenti,VLE,MONZA,75,2274,2,366.0,202.0,568.0
+non alimentare,muji,CSO,BUENOS AIRES,36,2129,3,505.0,0.0,505.0
+non alimentare,natuzzi,VIA,DURINI,24,313,1,748.0,152.0,900.0
+non alimentare,nuova eco srl.,VIA,PETROCCHI POLICARPO,36,2320,2,705.0,0.0,705.0
+non alimentare,opel gerli,VLE,TESTI FULVIO,22,1441,9,1440.0,2000.0,3440.0
+non alimentare,oviesse,GLL,PASSARELLA,2,303,1,750.0,0.0,750.0
+non alimentare,oviesse,VIA,CANTONI GIOVANNI,7,6206,7,1000.0,0.0,1000.0
+non alimentare,oviesse,VIA,MONCALIERI,15,1095,9,870.0,300.0,1170.0
+non alimentare,pabocar service,VIA,MONVISO,34,7212,8,390.0,0.0,390.0
+non alimentare,peugeot,VIA,GALLARATE,199,7420,8,1495.0,0.0,1495.0
+non alimentare,photodiscount,PZA,DE ANGELI ERNESTO,3,6276,7,292.0,0.0,292.0
+non alimentare,piaggio,CSO,SEMPIONE,43,7137,8,434.0,0.0,434.0
+non alimentare,picking pack service,LGO,AUGUSTO,8,315,1,380.0,0.0,380.0
+non alimentare,pimkie,VIA,BOSCOVICH RUGGERO,58,2131,3,399.0,0.0,399.0
+non alimentare,pisotti,ALZ,NAVIGLIO GRANDE,98,5144,6,875.0,0.0,875.0
+non alimentare,porsche,VLE,LANCETTI VINCENZO,46,1221,9,300.0,0.0,300.0
+non alimentare,prada,GLL,VITTORIO EMANUELE,63,10,1,720.0,0.0,720.0
+non alimentare,prada,VIA,MONTE NAPOLEONE,6,219,1,600.0,0.0,600.0
+non alimentare,prada,VIA,MONTE NAPOLEONE,8,219,1,500.0,0.0,500.0
+non alimentare,prenatal,CSO,BUENOS AIRES,28,2129,3,500.0,0.0,500.0
+non alimentare,prenatal,CSO,SAN GOTTARDO,11,5203,5,270.0,21.0,291.0
+non alimentare,prodotti per non vedenti,VIA,GIOVANNI DA PROCIDA,6,7151,8,450.0,0.0,450.0
+non alimentare,proto arredamenti,VIA,VESPRI SICILIANI,51,5137,6,384.0,0.0,384.0
+non alimentare,punto market,VIA,PIRANESI GIOVANNI BATTISTA,4,3263,4,600.0,764.0,1364.0
+non alimentare,ramsa,VIA,QUARTO CAGNINO,24,6313,7,570.0,0.0,570.0
+non alimentare,renco di macri  roberto,CSO,VENEZIA,29,238,1,260.0,214.0,474.0
+non alimentare,replay,LGO,CORSIA DEI SERVI,11,234,1,808.0,0.0,808.0
+non alimentare,ricordi media store,VIA,FOSCOLO UGO,3,205,1,2086.0,424.0,2510.0
+non alimentare,ricordi medi store,CSO,BUENOS AIRES,33,2129,3,1190.0,553.0,1743.0
+non alimentare,riparaz. contachilometri,VIA,MUSSI GIUSEPPE,5,7199,8,252.0,0.0,252.0
+non alimentare,ronchi arredamenti snc,VIA,LIPPI FILIPPINO,19,2196,3,277.0,0.0,277.0
+non alimentare,sagam,VLE,TESTI FULVIO,260,1441,9,440.0,640.0,1080.0
+non alimentare,salina albera,VIA,MAMBRETTI ANTONIO,29,7455,8,260.0,0.0,260.0
+non alimentare,salmoiraghi vigano,PZA,SAN BABILA,3,216,1,531.0,132.0,663.0
+non alimentare,saro,VIA,DE AMICIS EDMONDO,20,574,1,440.0,2362.0,2802.0
+non alimentare,schiffini,VIA,PASSIONE,2,3033,1,328.0,0.0,328.0
+non alimentare,sempione,CSO,SEMPIONE,6,7137,8,414.0,40.0,454.0
+non alimentare,sisley,GLL,PASSARELLA,1,303,1,437.0,17.0,454.0
+non alimentare,sisley,VIA,DOGANA,4,341,1,1076.0,519.0,1595.0
+non alimentare,sonia cars,VIA,CASORETTO,45,2420,3,280.0,0.0,280.0
+non alimentare,sony italia spa.,VIA,MANZONI ALESSANDRO,31,230,1,573.0,0.0,573.0
+non alimentare,spaccio aziendale,VIA,QUINTILIANO MARCO FABIO,33,3358,4,252.0,0.0,252.0
+non alimentare,spaccio zucchi,VIA,F.LLI LORENZETTI,4,6604,7,254.0,0.0,254.0
+non alimentare,spazio fitecarraldo,CSO,DI PORTA ROMANA,132,402,1,439.0,835.0,1274.0
+non alimentare,spazionavigli,VIA,ALESSANDRIA,3,5109,6,300.0,0.0,300.0
+non alimentare,splendori,CSO,MONFORTE,2,348,1,260.0,0.0,260.0
+non alimentare,spotorno car srl,VLE,TESTI FULVIO,29,1441,9,323.0,0.0,323.0
+non alimentare,spotti modern living,VLE,PIAVE,27,2179,1,393.0,0.0,393.0
+non alimentare,stefanel,PZA,DEL DUOMO,21,1,1,460.0,39.0,499.0
+non alimentare,supermarket del legno,VIA,LORENTEGGIO,246,5132,6,1128.0,0.0,1128.0
+non alimentare,super union,VIA,MAESTRI CAMPIONESI,25,3197,4,370.0,0.0,370.0
+non alimentare,susa auto silo,VIA,GOZZI GASPARE,5,3104,3,800.0,5690.0,6490.0
+non alimentare,sveziacar spa,VIA,KULISCIOFF ANNA,6,6812,6,520.0,0.0,520.0
+non alimentare,tecno,VIA,BIGLI,22,224,1,445.0,0.0,445.0
+non alimentare,tenda davide cenci,VIA,MANZONI ALESSANDRO,7,230,1,278.0,0.0,278.0
+non alimentare,terranova,VIA,TORINO,61,543,1,525.0,358.0,883.0
+non alimentare,tessuti raponi,VIA,RONCHI,2,2655,3,531.0,519.0,1050.0
+non alimentare,tiffany,VIA,DELLA SPIGA,19,226,1,266.0,0.0,266.0
+non alimentare,tod s,VIA,DELLA SPIGA,22,226,1,495.0,425.0,920.0
+non alimentare,treesse sport,PZA,SANTA MARIA BELTRADE,2,514,1,870.0,194.0,1064.0
+non alimentare,trevisan  E  c.,CSO,GENOVA,20,5164,1,630.0,31.0,661.0
+non alimentare,trussardi,PZA,DELLA SCALA,5,201,1,300.0,0.0,300.0
+non alimentare,tutto chicco,CSO,BUENOS AIRES,75,2129,3,575.0,305.0,880.0
+non alimentare,united colors of benetton,CSO,VERCELLI,8,6193,7,2228.0,1766.0,3994.0
+non alimentare,upim,VIA,QUARENGHI GIACOMO,23,7478,8,1490.0,346.0,1836.0
+non alimentare,valentino,VIA,MONTE NAPOLEONE,20,219,1,613.0,369.0,982.0
+non alimentare,vannucci,GLL,SAN BABILA,4,360,1,380.0,125.0,505.0
+non alimentare,varco spa.,VIA,DELL' INNOMINATO,2,5414,5,664.0,6476.0,7140.0
+non alimentare,vergelio,VIA,PASSARELLA,4,298,1,345.0,0.0,345.0
+non alimentare,verzeri,VIA,VILLAPIZZONE,12,7272,8,252.0,0.0,252.0
+non alimentare,vetrofania,VIA,DURINI,23,313,1,514.0,542.0,1056.0
+non alimentare,vodafone one,VIA,OREFICI,2,547,1,337.0,0.0,337.0
+non alimentare,volvo sveziacar,VLE,TOSCANA,31,4210,5,965.0,0.0,965.0
+non alimentare,white star adventure,VIA,DEGLI OMENONI,2,233,1,558.0,39.0,597.0
+non alimentare,willy sport,VIA,LAMARMORA ALFONSO,21,4103,1,266.0,0.0,266.0
+non alimentare,yves saint laurent,VIA,MONTE NAPOLEONE,27,219,1,632.0,0.0,632.0
+non alimentare,zara,CSO,BUENOS AIRES,54,2129,3,1200.0,709.0,1909.0
+non alimentare,zara,CSO,VITTORIO EMANUELE II,11,214,1,2500.0,200.0,2700.0
+non alimentare,zara,VIA,TORINO,2,543,1,1143.0,340.0,1483.0
+non alimentare,zucchi store,VIA,FOSCOLO UGO,4,205,1,700.0,0.0,700.0
+tabella speciale carburanti,Mancante,VIA,ROSSI PELLEGRINO,93,1510,9,910.0,32.0,942.0
+tabella speciale carburanti,Mancante,VIA,SANT' ARNALDO,26,1663,9,600.0,0.0,600.0
+tabella speciale carburanti,castelli elaborazioni elt,VIA,DE MARCHI EMILIO,37,1418,2,380.0,0.0,380.0
+tabella speciale monopolio,Mancante,PZA,DEL DUOMO,25,1,1,601.0,0.0,601.0
+tabella speciale monopolio,Mancante,VIA,MACCHI MAURO,42,2133,2,350.0,475.0,825.0
+tabella speciale carburanti,Mancante,VIA,GALLARATE,40,7420,8,800.0,100.0,900.0
+tabella speciale farmacie,farmacia,VIA,MAFFUCCI ANGIOLO,40,1276,9,462.0,291.0,753.0
+tabella speciale farmacie,farmacia cassiodoro,VLE,CASSIODORO,12,6359,8,591.0,185.0,776.0
+tabella speciale farmacie,farmacia scevola,VLE,TESTI FULVIO,90,1441,9,397.0,227.0,624.0
