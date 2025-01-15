@@ -222,18 +222,15 @@ def sortspbasedonx(x,sp):
     return (''.join(new_x), tuple(new_sp))
 
 #------------------------------------------------------- START ---------------------------------------------------
-def compute(infile, k):
-    #if len(sys.argv) > 1:
-        #infile=str(sys.argv[1])
-    #if len(sys.argv) > 2:
-        #k=int(sys.argv[2])
+def compute(df, k):
 
-    #data2D = df
-    data2D = read_csv(infile, encoding="unicode_escape", sep=";")
+    data2D = df
 
     print(data2D.shape)
 
     totaltuples = len(data2D.index)
+    print(totaltuples)
+    print(data2D.columns)
     listofcolumns = list(data2D.columns.values) # returns ['A', 'B', 'C', 'D', .....]
     tableT = ['NULL']*totaltuples # this is for the table T used in the function partition_product
     k_suppthreshold = k
